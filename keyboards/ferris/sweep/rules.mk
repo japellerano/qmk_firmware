@@ -1,1 +1,1 @@
-# This file intentionally left blank
+BOOTLOADER = rp2040
